@@ -1,0 +1,21 @@
+{
+  "name": "Anoid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coleleroux/Anoid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coleleroux/Anoid/issues"
+  },
+  "homepage": "https://github.com/coleleroux/Anoid#readme"
+}
