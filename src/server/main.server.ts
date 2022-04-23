@@ -1,3 +1,3 @@
-import { makeHello } from "shared/module";
-
-print(makeHello("main.server.ts"));
+import { Anoid } from "shared/Anoid";
+const Squidz = new Anoid("SquidSync");
+Squidz.Walk();
